@@ -1,0 +1,11 @@
+Instructions
+
+You have been given a feature to develop (see task.pdf) and a set of example files ( see examples/).
+
+A previous engineer has given you a broken but partially functional attempt (script.py) of the task and it is your
+job to clean up code, complete and test a full solution to grading the examples. You may change anything you want with the sample file, it is purely a sample.
+
+Do not take more than 2 hours on the assignment, if you are unfinished do a quick readme and let us know the state of your solution so we can get a better idea of where you ended up. There is no requirement to finish the assignment completely for it to move forward with the recruiting process.
+
+Thanks!
+ - The Because Market Engineering Team
