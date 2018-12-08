@@ -177,12 +177,12 @@ def apply_cmd(data, cmd):
 
 if __name__ == '__main__':
     # print "Arguments", sys.argv[1:]
-    # fieldFile = sys.argv[1]
-    # scriptFile = sys.argv[2]
+    fieldFile = sys.argv[1]
+    scriptFile = sys.argv[2]
 
     # for testing purposes only, comment when done
-    fieldFile  = 'examples/test'+str(sys.argv[1])+'.field'
-    scriptFile  = 'examples/test'+str(sys.argv[1])+'.script'
+    # fieldFile  = 'examples/test'+str(sys.argv[1])+'.field'
+    # scriptFile  = 'examples/test'+str(sys.argv[1])+'.script'
     
 
     # READING IN FIELD AND COMMANDS
