@@ -1,4 +1,5 @@
-# BecauseMarketCodingChallenge
+# Space Mine Clearing Vessel
+## Because Market Coding Challenge
 
 The original script provided to me is listed at originalScript.py.
 I duplicated this file as modifiedScript.py and my most recent update is there.
